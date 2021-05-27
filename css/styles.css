@@ -1,0 +1,187 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Solway', serif;
+  font-size: 2em;
+}
+
+h1 {
+  font-size: 5.65rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Over the Rainbow', cursive;
+  color: #1ee3cf;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Source Code Pro', monospace;
+  color: #1ee3cf;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 98%;
+  font-family: 'Han Sans', sans-serif;
+  color: #6b48ff;
+  font-weight: normal;
+  text-align: left;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #0d3f67;
+  border-width: 10px;
+  width: 7%;
+  margin: 100px auto
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+  width: 100%;
+}
+
+th{
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+}
+
+td{
+  text-align: center;
+  vertical-align: top;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  width: auto;
+}
+
+p{
+  line-height: 2;
+  text-align: justify;
+  font-size: 90%;
+}
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #6b48ff;
+}
+
+.top-container{
+  background-color: #f2f4f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.contact-me{
+  width: 85%;
+  margin: 100px auto 0 auto;
+  position: relative;
+}
+
+.bottom-container{
+  background-color: #f2f4f6;
+  padding: 10px 0 10px;
+}
+
+.footer-link{
+  color: #0d3f67;
+}
+
+
+.top-drone{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 8%;
+  height: auto;
+}
+
+.robot{
+  width: 30%;
+  height: auto;
+}
+
+.bottom-drone{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 8%;
+  height: auto;
+}
+
+.profile{
+  width: 90%;
+  margin: 100px auto 100px auto;
+}
+
+.profile-pic{
+  height: 200px;
+  width: 200px;
+}
+
+.skills{
+  width: 50%;
+  margin: auto;
+}
+
+.skills-gif{
+  height: 200px;
+  width: 200px;
+  background-color: #6b48ff;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.other-skills-gif{
+  height: 200px;
+  width: 200px;
+  background-color: #6b48ff;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.skills-gif-2{
+  height: 120px;
+  width: 120px;
+  background-color: #1ee3cf;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.other-skills-title{
+  text-align: justify;
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 10px;
+}
+
+.five-stars{
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  float: left;
+}
+
+.skill-row{
+  width: 85%;
+  margin: 100px auto 100px auto;
+  position: relative;
+  line-height: 1.5;
+}
