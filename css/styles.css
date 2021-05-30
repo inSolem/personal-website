@@ -7,22 +7,22 @@ body{
 }
 
 h1 {
-  font-size: 5.65rem;
+  font-size: 3.5em;
   line-height: 2;
-  margin: 50px auto 0 auto;
+  margin: 0.7em auto 0 auto;
   font-family: 'Over the Rainbow', cursive;
   color: #1ee3cf;
 }
 
 h2{
-  font-size: 3rem;
+  font-size: 1.5em;
   font-family: 'Source Code Pro', monospace;
   color: #1ee3cf;
   font-weight: normal;
 }
 
 h3{
-  font-size: 98%;
+  font-size: 0.95em;
   font-family: 'Han Sans', sans-serif;
   color: #6b48ff;
   font-weight: normal;
@@ -33,9 +33,9 @@ hr{
   border-style: none;
   border-top-style: dotted;
   border-color: #0d3f67;
-  border-width: 10px;
-  width: 7%;
-  margin: 100px auto
+  border-width: 0.5em;
+  width: 5em;
+  margin: 0.5em auto
 }
 
 table{
@@ -47,23 +47,23 @@ table{
 
 th{
   text-align: left;
-  padding-top: 20px;
-  padding-bottom: 40px;
-  padding-left: 20px;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+  padding-left: 0.5em;
 }
 
 td{
   text-align: center;
   vertical-align: bottom;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: .25em;
+  padding-right: .255em;
   width: auto;
 }
 
 p{
   line-height: 2;
   text-align: justify;
-  font-size: 90%;
+  font-size: 0.9em;
 }
 a{
   text-decoration: none;
@@ -77,58 +77,58 @@ a:hover{
 .top-container{
   background-color: #f2f4f6;
   position: relative;
-  padding-top: 50px;
+  padding-top: 2.5em;
 
 }
 
 .top-drone{
   position: absolute;
   right: 15%;
-  top: 50px;
-  width: 4.5rem;
+  top: 2.5em;
+  width: 2.25em;
   height: auto;
 }
 
 .bottom-drone{
   position: absolute;
   left: 15%;
-  bottom: 40%;
-  width: 7rem;
+  bottom: 13em;
+  width: 3.5em;
   height: auto;
 }
 
 .programmer{
   position: relative;
-  top: 10px;
+  top: 0.5em;
   width: auto;
-  height: 60%;
+  height: 17em;
 }
 
 /**************************/
 
 .middle-container{
-  margin: 100px 0;
+  margin: 5em 0;
 }
 
 .profile{
   width: 90%;
-  margin: 100px auto 100px auto;
+  margin: 5em auto 5em auto;
 }
 
 .profile-pic{
-  height: 200px;
-  width: 200px;
+  height: 8em;
+  width: 8em;
 }
 
 .my-bio{
   margin: auto;
   text-align: center;
-  width: 50%;
+  width: 22em;
 }
 
 .skill-row{
   width: 85%;
-  margin: 100px auto 100px auto;
+  margin: 5em auto 5em auto;
   position: relative;
   line-height: 1.5;
 }
@@ -139,32 +139,32 @@ a:hover{
 }
 
 .skills-gif{
-  height: 200px;
-  width: 200px;
+  height: 5em;
+  width: 5em;
   background-color: #6b48ff;
   border-radius: 50%;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.5em;
 }
 
 .skills-icon{
-  width: 70px;
+  width: 3.5em;
   height: auto;
 }
 
 .star{
-  width: 20px;
+  width: 0.7em;
   height: auto;
 }
 
 .other-skills-gif{
-  height: 200px;
-  width: 200px;
+  height: 5em;
+  width: 5em;
   background-color: #6b48ff;
   border-radius: 50%;
   float: right;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 0.938em;
+  margin-right: 0.938em;
 }
 
 .other-skills-title{
@@ -174,12 +174,12 @@ a:hover{
 }
 
 .skills-gif-2{
-  height: 120px;
-  width: 120px;
+  height: 3.750em;
+  width: 3.750em;
   background-color: #1ee3cf;
   border-radius: 50%;
   float: left;
-  margin-right: 30px;
+  margin-right: 0.938em;
 }
 
 .five-stars{
@@ -191,7 +191,7 @@ a:hover{
 
 .contact-me{
   width: 85%;
-  margin: 100px auto 0 auto;
+  margin: 3.125em auto 0 auto;
   position: relative;
 }
 
@@ -199,7 +199,7 @@ a:hover{
 
 .bottom-container{
   background-color: #f2f4f6;
-  padding: 10px 0 0;
+  padding: 0.313em 0 0;
   position: relative;
 }
 
@@ -209,9 +209,9 @@ a:hover{
 }
 
 .contact-icon{
-  width: 50px;
+  width: 1.563em;
   height: auto;
-  margin: 40px 0 0 0;
+  margin: 1.250em 0 0 0;
 }
 
 .footer-link{
@@ -221,8 +221,8 @@ a:hover{
 
 .copy-right{
   text-align: center;
-  font-size: 55%;
-  margin-top: 50px;
+  font-size: 0.55em;
+  margin-top: 1.563em;
   margin-bottom: 0;
   padding-bottom: 0;
   color: #6b48ff
@@ -230,11 +230,11 @@ a:hover{
 
 .attribution{
   text-align: center;
-  font-size: 40%;
+  font-size: 0.4em;
   margin-bottom: 0;
   padding-bottom: 0;
   color: #0d3f67;
   margin-top: 0;
   position: relative;
-  bottom: 1px;
+  bottom: 0.031em;
 }
