@@ -221,7 +221,7 @@ a:hover{
 
 .copy-right{
   text-align: center;
-  font-size: 0.55em;
+  font-size: 55%;
   margin-top: 1.563em;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -230,7 +230,7 @@ a:hover{
 
 .attribution{
   text-align: center;
-  font-size: 0.4em;
+  font-size: 40%;
   margin-bottom: 0;
   padding-bottom: 0;
   color: #0d3f67;
